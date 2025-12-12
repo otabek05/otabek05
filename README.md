@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otabek</h1>
-<h3 align="center">A passionate backend developer</h3>
 
-- 🌱 I’m currently learning **CCNA, OS(Rust)**
-- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
