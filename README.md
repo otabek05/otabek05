@@ -52,6 +52,7 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otabek05&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=otabek05&layout=compact)
+
 
 
