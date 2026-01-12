@@ -52,5 +52,6 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=otabek05&layout=compact&hide=html,css" />
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otabek05&layout=compact)
+
 
